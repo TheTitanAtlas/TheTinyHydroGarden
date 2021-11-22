@@ -1,2 +1,2 @@
 # TheTinyHydroGarden
-Hydropic software for monitoring garden
+Hydropic API to communicate with hydroponic systems
